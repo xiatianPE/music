@@ -1,0 +1,12 @@
+{
+  "name": "xiatianpe-music",
+  "version": "1.1.1",
+  "description": "A music page for hexo,you can also apply it in any project which is based on html",
+  "scripts": {
+    "eslint": "eslint ."
+},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anzhiyu-c/hexo-anzhiyu-music.git"
+  }
+}
