@@ -1,12 +1,18 @@
 {
   "name": "xiatianpe-music",
-  "version": "1.1.1",
-  "description": "A music page for hexo,you can also apply it in any project which is based on html",
+  "version": "1.0.0",
+  "description": "A package for judging a string is null or empty or undefined",
+  "main": "index.js",
+  "repository": "https://github.com/xiatianpe/music.git",
   "scripts": {
-    "eslint": "eslint ."
-},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/anzhiyu-c/hexo-anzhiyu-music.git"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yorcent",
+    "string",
+    "isNullOrEmpty",
+    "undefined"
+  ],
+  "author": "yorcentluo",
+  "license": "ISC"
 }
