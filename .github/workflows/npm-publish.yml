@@ -3,14 +3,8 @@
 
 name: Node.js Package
 
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/release-client.yml
-      - packages/client/**
-      - docs/**
+push:
+    branches: [ main ]
 
 jobs:
   build:
